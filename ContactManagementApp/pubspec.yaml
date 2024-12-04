@@ -1,0 +1,12 @@
+
+name: contact_management_app
+description: A simple contact management application with Flutter and SQLite.
+
+dependencies:
+  flutter:
+    sdk: flutter
+  sqflite: ^2.2.0+3
+  path: ^1.8.3
+
+environment:
+  sdk: ">=2.18.0 <3.0.0"
